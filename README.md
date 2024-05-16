@@ -7,3 +7,4 @@ Technologies used in the project:
 5.MangoDB
 6.ExpressJS
 7.NodeJS
+8.tailwind css
